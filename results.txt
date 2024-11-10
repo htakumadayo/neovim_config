@@ -1,0 +1,60 @@
+This mode is currently in a beta and subject to change. Feedback by opening an issue is appreciated.
+
+To generate these stats, a total of 71 Events has been parsed. (One task done is rougly two events).
+
+You started a total of 35 Tasks with 27 types. 
+
+You started a total of 2 Sessions.
+You started 27 unique tasks, which is a percentage of 58% of all the 46 available.
+These are all the tasks you finished sorted by percentage of success:
+MoveO: 100%
+MoveCharsLeft: 100%
+MoveWORDStart: 100%
+paste: 100%
+MoveWordStart: 100%
+Paste: 100%
+MoveWORD: 100%
+BlockCommentLine: 100%
+SearchWordBackward: 100%
+Increment: 100%
+DeleteLine: 100%
+YankInsideMatch: 100%
+MoveStartOfLine: 100%
+SearchWordForward: 100%
+YankEndOfLine: 100%
+MoveLinesUp: 33.333333333333%
+AppendChar: 0%
+MoveF: 0%
+YankIntoRegister: 0%
+DeleteInsideMatch: 0%
+MoveWORDEnd: 0%
+MoveMatch: 0%
+CommentLine: 0%
+DeleteWord: 0%
+MoveWordEnd: 0%
+These are how often you finished the tasks you started:
+MoveWORDEnd: 3
+YankEndOfLine: 3
+MoveLinesUp: 3
+Paste: 2
+MoveWORDStart: 2
+BlockCommentLine: 1
+DeleteWord: 1
+MoveWordStart: 1
+MoveWordEnd: 1
+AppendChar: 1
+MoveWORD: 1
+MoveCharsLeft: 1
+CommentLine: 1
+MoveF: 1
+MoveMatch: 1
+DeleteInsideMatch: 1
+YankInsideMatch: 1
+MoveStartOfLine: 1
+YankIntoRegister: 1
+paste: 1
+MoveO: 1
+DeleteLine: 1
+SearchWordForward: 1
+SearchWordBackward: 1
+Increment: 1

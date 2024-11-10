@@ -1,0 +1,12 @@
+--[[------Status-------
+Your next Task: Paste the text from register 'c' into the line above the current using P
+Successes: 41, Failures: 12
+Current Streak: 5 Your best Streak: 9
+----------------]]
+---------------------------------------------------------------------- 
+
+
+modi consequat. Quis aute iure reprehenderit in voluptate velit esse ci
+
+
+ ----------------------------------------------------------------------

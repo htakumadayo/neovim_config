@@ -4,7 +4,11 @@ vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
 vim.opt.smartindent = true
 
+
 vim.opt.nu = true
+-- vim.opt.rnu = true
+
+vim.cmd("RltvNmbr")
 
 vim.opt.wrap = false
 
@@ -34,3 +38,5 @@ vim.keymap.set("n", "<leader>sj", "<C-w>j", {noremap=false, desc="To split below
 vim.keymap.set("n", "<leader>sk", "<C-w>k", {noremap=false, desc="To top split"}) -- Navigate to the split window top.
 vim.keymap.set("n", "<leader>sl", "<C-w>l", {noremap=false, desc="To right split"}) -- Navigate to the split window on the immediate right.
 
+
+-- vim.o.statuscolumn = "%l %r "
